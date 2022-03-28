@@ -1,0 +1,12 @@
+/*
+Theme Name: Starter
+Version: 1.0;
+*/
+.header-area{
+	width: 100%
+}
+.header-right{
+	width: 20%;
+	float: right;
+	overflow: hidden;
+}
